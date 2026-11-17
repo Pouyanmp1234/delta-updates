@@ -1,8 +1,8 @@
 {
-    "changelog": "هیچی",
-    "mandatory": true,
-    "pck_url": "https://yourdomain.com/delta_update.pck",
-    "sha256": "271cafc1104e87839e3a7d2ab53a4662d3afcdf89df6e18d0e72c1cc7333b660",
-    "size_bytes": 127949580,
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "pck_url": "لینک_کپی_شده_در_مرحله_۱_را_اینجا_بذار",
+    "sha256": "",
+    "size_bytes": 0,
+    "mandatory": false,
+    "changelog": "• آپدیت از طریق گیت‌هاب"
 }
