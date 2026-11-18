@@ -1,8 +1,8 @@
 {
-    "version": "1.0.3",
-    "pck_url": "https://github.com/Pouyanmp1234/delta-updates/releases/download/1.0.3/patch_update.pck",
+    "version": "1.0.4",
+    "pck_url": "https://github.com/Pouyanmp1234/delta-updates/releases/download/1.0.4/patch_update.pck",
     "sha256": "",
     "size_bytes": 0,
     "mandatory": false,
-    "changelog": "• آپدیت و تست ۀپدیت کم حجم"
+    "changelog": " آپدیت 1.0.4 : قابلیت سرچ کردن"
 }
