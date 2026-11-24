@@ -1,8 +1,8 @@
 {
-    "version": "3.0.0",
-    "pck_url": "https://github.com/Pouyanmp1234/delta-updates/releases/download/3.0.0/patch_update.pck",
+    "version": "3.0.1",
+    "pck_url": "https://github.com/Pouyanmp1234/delta-updates/releases/download/3.0.1/patch_update.pck",
     "sha256": "",
     "size_bytes": 0,
     "mandatory": false,
-    "changelog": " DELTA _ 3.0.0 Beta , ATOMIC Series"
+    "changelog": " DELTA _ 3.0.1 Beta , ATOMIC Series"
 }
